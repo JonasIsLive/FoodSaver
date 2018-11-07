@@ -1,5 +1,5 @@
 
-# A React Native Authentication application for a food waste concept developed in 2017. The app build on top of multiple boilerplates, that has Facebook Authorisation and Email/Pwd authorisation using react native, expo, uikitten, and firebase. 
+# A React Native Authentication application for a food waste concept developed in 2017. The app is build on top of multiple boilerplates and has Facebook Authorisation and Email/Pwd authorisation using react native, expo, uikitten, and firebase. 
 
 ### **How to Install**
 
